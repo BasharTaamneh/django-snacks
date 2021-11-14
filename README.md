@@ -6,7 +6,7 @@
 - home page
 - about page
 
-## mplementation Notes
+## Implementation Notes
 
 * Typical Steps to Start Django Project
 
